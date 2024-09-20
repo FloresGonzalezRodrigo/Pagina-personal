@@ -1,0 +1,18 @@
+#cancion {
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    border: solid;
+}
+
+#halo {
+    
+}
+
+body {
+    padding: 300px;
+}
+
+table {
+    border-collapse: collapse;
+}
